@@ -4,6 +4,8 @@ As a frequent diner, you love trying out new restaurants and experimenting with 
 
 In this project, you’ll use JavaScript to randomly create a three-course meal based on what is available on a menu. We’ll keep running it until we’re satisfied with the generated meal!
 
+![image](https://github.com/abemsq/lab-meal-maker/blob/master/image.png)
+
 ```
 const menu = {
   _courses: {
